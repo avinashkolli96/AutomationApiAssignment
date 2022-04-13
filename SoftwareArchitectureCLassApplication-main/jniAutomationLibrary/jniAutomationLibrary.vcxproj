@@ -86,6 +86,7 @@
   <ItemGroup>
     <None Include="..\FakeAutomationJava\FakeAutomationJava.java" />
     <None Include="cpp.hint" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\FakeAutomationJava\FakeAutomationJava.h" />
