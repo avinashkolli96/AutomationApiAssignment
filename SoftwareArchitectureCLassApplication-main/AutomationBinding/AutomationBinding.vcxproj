@@ -99,6 +99,7 @@
     <ClInclude Include="AutomationAPI_CADObject.h" />
     <ClInclude Include="AutomationAPI_Extrude.h" />
     <ClInclude Include="AutomationAPI_FeatureCollection.h" />
+    <ClInclude Include="CubeBuilder.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="AutomationAPI_IBuilder.h" />
     <ClInclude Include="AutomationAPI_ICADObject.h" />
@@ -111,6 +112,7 @@
     <ClCompile Include="Block.cpp" />
     <ClCompile Include="BlockBuilder.cpp" />
     <ClCompile Include="CADObject.cpp" />
+    <ClCompile Include="CubeBuilder.cpp" />
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="Extrude.cpp" />
     <ClCompile Include="FeatureCollection.cpp" />
